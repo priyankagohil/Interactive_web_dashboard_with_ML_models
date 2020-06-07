@@ -69,7 +69,6 @@ nbformat==4.4.0
 networkx==2.4
 notebook==5.7.8
 numpy==1.18.5
-object-detection==0.1
 opencv-contrib-python==4.2.0.32
 opencv-python==4.2.0.32
 packaging==20.4
