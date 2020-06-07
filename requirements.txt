@@ -56,7 +56,6 @@ Keras==2.3.1
 Keras-Applications==1.0.7
 Keras-Preprocessing==1.0.9
 kiwisolver==1.0.1
-Lasagne==0.2.dev1
 lazy-object-proxy==1.4.3
 lxml==4.5.0
 Markdown==3.1
