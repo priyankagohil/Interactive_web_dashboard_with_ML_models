@@ -127,7 +127,7 @@ virtualenvwrapper-win==1.2.6
 watchdog==0.10.2
 wcwidth==0.1.7
 webencodings==0.5.1
-Werkzeug==0.15.1
+Werkzeug==0.15.3
 widgetsnbextension==3.4.2
 wrapt==1.12.1
 yarg==0.1.9
